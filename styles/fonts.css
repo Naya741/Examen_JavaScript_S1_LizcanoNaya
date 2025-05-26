@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "grande";
+    src: url(../fonds/Inter_18pt-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: "medio";
+    src: url(../fonds/Inter_18pt-Medium.ttf);
+
+}
+@font-face {
+    font-family: "pequeño";
+    src: url(../fonds/Inter_24pt-SemiBold.ttf);
+}
